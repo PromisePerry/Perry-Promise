@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing vCard
 
-To install **vCard**, follow these steps:
+To install **Perry**, follow these steps:
 
 Linux and macOS:
 
@@ -37,7 +37,7 @@ git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://twitter.com/BigPerryWB).
 
 ## License
 
